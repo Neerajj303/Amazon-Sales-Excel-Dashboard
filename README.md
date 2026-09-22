@@ -167,7 +167,7 @@ Features used:
 
 ## 📷 Dashboard Preview
 
-Screenshots of the dashboard and analytical views can be added here to provide a visual overview of the project.
+![Amazon Sales Dashboard](Image/Dashboard.png)
 
 ---
 
