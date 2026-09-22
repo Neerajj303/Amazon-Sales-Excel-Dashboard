@@ -167,7 +167,7 @@ Features used:
 
 ## 📷 Dashboard Preview
 
-![Amazon Sales Dashboard](Image/Dashboard.png)
+![Amazon Sales Dashboard](IMG_8006.jpeg)
 
 ---
 
